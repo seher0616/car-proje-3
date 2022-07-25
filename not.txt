@@ -1,0 +1,16 @@
+tittle arasına başlık verdik.
+tittle altına link yazıp iki nokta koyduktan sonra css. dosyamıyızda oluşur.
+bütün hepsini kapasaya bir şekilde body içine div. etiketi açılır hepsini kapsayacağı için div içerisine bir class verdikten countainer ile kapsanır.
+yukarıdaki link kısımını kapsaması için yine bir div etiketi açılır ve class verdikten sonra açıklama olarak da navbar verdik.
+div class navbar  kapayaca şekilde yukarındaki css için bir tane a. etiketi bir tanede nav. etiketi açtık.
+a etiketi içerisine  href verdikten sonra bir id verdik yani# daha sonra  atiketi içerisine img etiketi açıldı ve içerisine  yani img etiketi onun içinede src eklentisi ve logomuzu koyduk.
+nav etiketinin altına listleme yapacağız onun için önce ul etiketi onun içerisine li etiketi li etiketin içerisine ise a etiketi çünkü a etiki ile isteğiğimiz yere internetten gidiyorduk. 
+css ise nav yazdık süslü parantezi açtık daha sonra ilk yukarıdaki birrbinden uzaklaşsın diye display flex verdik sonra en sağa gitsin diye justify-countent:space btween yaptık.
+.countainer yaptık hepsini kapsıyor iç boşluk verdik yani padding
+sonra arka plan resmi verdim oda şu şekilde background-img resmi ise url ile verdim tüm sayfayı kalasınistiyorsak height 100 vh verdim 
+ben tüm sayfayı kaplasın resim istiyorsam  * yıldız aç süslü parantez içine margin ve padding 0 verirsin.
+arka plan rengi sayfayı tam olarak kaplasın istiyorsak background-size cover verdik
+nav ların içinde altı çizili yazıları kaldırmak için text decoration:none yaptık.yanlarındaki notayaı kaldırmak için ise list-style: none yapılır.
+FONT ALNS gittik içerisine istediğimiz ikonu  kopyalıyoruz
+yazı arasındaki boşluklar colongab ile verilir.
+renkler arasındakii geçişte trastation yapacağız

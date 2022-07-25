@@ -1,0 +1,89 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-top: auto;
+
+}
+    
+.container{
+    width: 100%;
+    height: 100vh;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-image:url(yol.jpg);
+    background-position: center;
+    background-size: cover;
+   
+}
+p{
+    font-size: 10px;
+    color: #fff;
+    line-height: 16px;
+}
+.btn{
+    padding: 12px 28px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 30px;
+    cursor: pointer;
+    color: #000;
+    background-color: #fff;
+    border-radius: 20px;
+    border:1px solid red;
+    transition: 0.5s;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #000;
+    color: #fff;
+
+
+
+}
+.navbar{
+    height: 12%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  nav ul{
+    list-style: none;
+    display: flex;
+    column-gap: 20px;
+  }
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+    transition: ease 0.5s;
+  }
+  nav ul li a:hover{
+    color: #000;
+     
+  }
+  .row{
+
+    display: flex;
+    column-gap: 10px;
+    height: 88%;
+    align-items: center;
+  }
+  .col{
+    flex-basis: 50%;
+  }
+  h1{
+    color: #fff;
+    font-size: 150px;
+  }
+  .desc{
+    font-size: 16px;
+  
+
+
+
+
+
+
+  }
